@@ -2,51 +2,86 @@
 <h4 align="center"><i>- work in progress -</i></h1>
 
 ## Common
-- high detail
-- intricate detail
-- iridescent details
-- 4k
-- 8k
 - 16k
 - 32k
-- sharp focus
-- cinematic
-- hyper realism
-- 80s style, 
-- neon light
+- 4k
+- 80s style
+- 8k
+- Flowerpunk 
 - Full body portrait 
-- pin-up
-- romantic 
-- ultra detailed
-- perfect composition
-- elegant
-- very coherent
-- highly detailed photorealistic
-- detailed photography
-- symmetry
-- hyper realistic
-- flawless render
-- masterpiece
-- insanely detailed and intricate
-- hypermaximalist
-- flickr
-- oscar award winning
-- professional light
-- sense of awe
-- regal
-- ornate
-- d&d
-- fantasy
-- magic the gathering artwork
-- cinematic lighting
+- HDR
+- abundant details
+- art nouveau
+- beautiful landscape
+- bloomcore
+- brush stroke
 - centered
-- smooth
-- illustration
-- epic composition
-- digital painting
-- digital art
-- digital photography
+- cinematic
+- cinematic lighting
+- cinematic shot
 - conceptual art
+- d&d
+- detailed photography
+- digital art
+- digital painting
+- digital photography
+- dramatic light
+- dynamic scene
+- elegant
+- epic composition
+- fantasy
+- film grain
+- fine details
+- fish eye
+- flawless render
+- flickr
+- great cinematography and colors
+- high detail
+- high quality
+- high resolution
+- highly detailed
+- highly detailed photorealistic
+- hyper realism
+- hyper realistic
+- hyperdetalization
+- hypermaximalist
+- hyperrealistic
+- illustration
+- insanely detailed
+- insanely detailed and intricate
+- intricate detail
+- iridescent details
+- lots of details
+- magic the gathering artwork
+- masterpiece
+- neon light
+- oil painting
+- ornate
+- oscar award winning
+- perfect composition
+- photorealistic
+- pin-up
+- professional light
+- professional studio light
+- realistic art
+- realistic design
+- regal
+- romantic 
+- sense of awe
+- sharp focus
+- shining
+- smooth
+- soft focus
+- soft light
+- symmetric
+- symmetry
+- ultra detailed
+- ultra realistic
+- ultrarealistic
+- very coherent
+- vibrant colors
+- volumetric fog
+- volumetric light
 
 ## Lightning
 - volumetric lighting
