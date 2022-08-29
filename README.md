@@ -1,4 +1,5 @@
 <h1 align="center">Stable Diffusion Prompt Dictionary</h1>
+<h4 align="center"><i>- work in progress -</i></h1>
 
 ## Common
 - high detail
