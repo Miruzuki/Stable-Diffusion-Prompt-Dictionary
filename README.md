@@ -131,9 +131,9 @@
 
 ###### Others
 - 80s style
-- art nouveau
-- bloomcore
-- pin-up
+- Art Nouveau
+- Bloomcore
+- Pin-Up
 
 ## Photorealism
 - Canon EOS R3
