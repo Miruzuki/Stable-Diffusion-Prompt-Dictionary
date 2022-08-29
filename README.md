@@ -1,95 +1,79 @@
 <h1 align="center">Stable Diffusion Prompt Dictionary</h1>
 <h4 align="center"><i>- work in progress -</i></h1>
 
-## Common
-- 16k
-- 32k
-- 4k
-- 80s style
-- 8k
-- Flowerpunk 
-- Full body portrait 
-- HDR
-- abundant details
-- art nouveau
-- beautiful landscape
-- bloomcore
-- brush stroke
-- centered
-- cinematic
-- cinematic lighting
-- cinematic shot
+## Image Type
+- portrait
+- full body portrait 
+- face close up portrait
 - conceptual art
-- d&d
-- detailed photography
+- photo
+- photography
 - digital art
+- digital artwork
 - digital painting
 - digital photography
-- dramatic light
-- dynamic scene
-- elegant
-- epic composition
-- fantasy
-- film grain
-- fine details
-- fish eye
-- flawless render
-- flickr
-- great cinematography and colors
-- high detail
-- high quality
-- high resolution
-- highly detailed
-- highly detailed photorealistic
-- hyper realism
-- hyper realistic
-- hyperdetalization
-- hypermaximalist
-- hyperrealistic
+- digital 2D
+- digital 3D
 - illustration
+- oil painting
+- realistic art
+
+## Detalization
+- abundant details
+- fine details
+- high detail
+- highly detailed
+- hyperdetalization
+- hyperrealistic
 - insanely detailed
 - insanely detailed and intricate
-- intricate detail
+- intricate details
 - iridescent details
 - lots of details
-- magic the gathering artwork
-- masterpiece
-- neon light
-- oil painting
+- hyper realism
+- hyper realistic
+- hypermaximalist
 - ornate
-- oscar award winning
-- perfect composition
-- photorealistic
-- pin-up
-- professional light
-- professional studio light
-- realistic art
-- realistic design
-- regal
-- romantic 
-- sense of awe
-- sharp focus
-- shining
-- smooth
-- soft focus
-- soft light
-- symmetric
-- symmetry
 - ultra detailed
 - ultra realistic
 - ultrarealistic
-- very coherent
-- vibrant colors
-- volumetric fog
-- volumetric light
 
-## Lightning
+## Resolution and Quality
+- 32k
+- 16k
+- 8k
+- 4k
+- HDR
+- high quality
+- high resolution
+- HQ
+- HD
+
+## Lighting
 - volumetric lighting
+- volumetric light
 - golden hour
 - blue hour
 - crepuscular rays
 - light scattering
 - god rays
+- cinematic lighting
+- soft light
+- professional light
+- professional studio light
+- neon light
+- dramatic light
+- vibrant colors
+- volumetric fog
+- shining
+
+## Composition
+- centered
+- perfect composition
+- symmetric
+- symmetry
+- very coherent
+- realistic design
 
 ## Render Engines
 - Blender Render
@@ -137,6 +121,7 @@
 - in the style of Cyberpunk
 - in the style of Decopunk
 - in the style of Dieselpunk
+- in the style of Flowerpunk 
 - in the style of Ottensian dieselpunk
 - in the style of Piecraftian dieselpunk
 - in the style of Postcyberpunk
@@ -144,10 +129,40 @@
 - in the style of Steampunk
 - in the style of Steelpunk
 
+###### Others
+- 80s style
+- art nouveau
+- bloomcore
+- pin-up
+
 ## Photorealism
 - Canon EOS R3
 - f/1.4
 - ISO 200
 - 1/160s
 - RAW
-- Unedited
+- unedited
+- photorealistic
+
+## Unsorted
+- beautiful landscape
+- brush stroke
+- cinematic
+- cinematic shot
+- d&d
+- dynamic scene
+- elegant
+- fantasy
+- film grain
+- fish eye
+- flawless render
+- great cinematography
+- magic the gathering artwork
+- masterpiece
+- oscar award winning
+- regal
+- romantic 
+- sense of awe
+- sharp focus
+- smooth
+- soft focus
