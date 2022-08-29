@@ -1,4 +1,5 @@
 <h1 align="center">Stable Diffusion Prompt Dictionary</h1>
+<p align="center"><a href="https://t.me/miruzuki_text2img"><img src="https://img.shields.io/static/v1?label=Telegram&logo=telegram&message=Channel&color=0088cc&link=https://t.me/miruzuki_text2img&link=https://t.me/miruzuki_text2img"></a></p>
 <h4 align="center"><i>- work in progress -</i></h1>
 
 ## Image Type
