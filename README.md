@@ -134,6 +134,8 @@
 - 80s style
 - Art Nouveau
 - Bloomcore
+- Dark Fantasy
+- Dark Surrealism
 - Pin-Up
 
 ## Photorealism
